@@ -91,6 +91,6 @@ int main()
 
 	window.display();
 	}
-
+// I am Bright and I just forked ewosborn's Snake-Game
     return 0;
 }
